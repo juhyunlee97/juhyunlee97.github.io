@@ -8,24 +8,7 @@
         }
         body {
             line-height: 1.5;
-        }
-        .section {
-            display: flex;
-            align-items: flex-start;
-            gap: 30px;
-            max-width: 1000px;
-        }
-        .section img {
-            width: 200px;
-            height: auto;
-            border-radius: 8px;
-            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
-        }
-
-        .text-block {
-            flex: 1;
-            font-size: 16px;
-        }
+        }        
         .custom-color {
             color: var(--global-theme-color);
             font-size: 25px;
@@ -33,8 +16,7 @@
     </style>
 </head>
 <body>
-    <div class="text-block">
-        <span class="custom-color">Neural Interfaces <br></span>
+    span class="custom-color">Neural Interfaces <br></span>
 </body>
 </html>
 
