@@ -26,4 +26,22 @@ profiles:
         height: 300px; 
         object-fit: cover; 
     }
+  
+    .profile {
+        display: flex;
+        align-items: flex-start;
+        gap: 20px;
+        margin-bottom: 40px;
+    }
+
+    .profile img {
+        height: 300px;
+        width: auto;
+        object-fit: cover;
+        flex-shrink: 0;
+    }
+
+    .more-info, .clearfix {
+        flex: 1;
+    }
 </style>
