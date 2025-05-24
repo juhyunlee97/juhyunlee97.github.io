@@ -17,6 +17,5 @@
 </body>
 </html>
 
-General information of my research <br>
-
-Hi..
+My research focuses on the development of bioelectronic interfaces that enable bidirectional communication between the skin and neural cells, through a multidisciplinary approach integrating electrical engineering, materials science, and biomedical engineering.
+These interfaces are designed to seamlessly bridge biological systems and electronic platforms, leveraging soft, miniaturized, and wireless technologies.
