@@ -7,7 +7,7 @@
             --global-theme-color: #00369f; 
         }
         body {
-            line-height: 1.8;
+            line-height: 1.5;
         }
         .custom-color {
             color: var(--global-theme-color);
