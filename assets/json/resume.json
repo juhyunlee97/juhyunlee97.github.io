@@ -120,17 +120,27 @@
       "keywords": [
         "Photolithography",
         "Thin film deposition",
-        "To be added"
+        "Etching"
       ]
     },
     {
-      "name": "Electronic system development",
+      "name": "Hardware development",
       "level": "Level",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
         "PCB design",
+        "Microcontroller",
+        "3D printing"
+      ]
+    },
+    {
+      "name": "Software",
+      "level": "Level",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
         "Embedded C",
-        "To be added"
+        "Matlab",
+        "Python"
       ]
     }
   ],
@@ -139,8 +149,18 @@
       "name": "Neural devices",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Wireless system",
-        "Soft electronics"
+        "Compact system",
+        "Minimally invasive",
+        "Optogenetics"
+      ]
+    },
+    {
+      "name": "Wearable devices",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Wireless",
+        "Soft electronics",
+        "Electrophysiology"
       ]
     }
   ],
@@ -150,11 +170,6 @@
       "icon": "fa-solid fa-laptop",
       "reference": "School of Electrical Engineering, KAIST",
       "url": "https://www.jeongresearch.org/"
-    },
-    {
-      "name": "Professor XX",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "XX"
     }
   ]
 }
