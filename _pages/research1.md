@@ -6,6 +6,9 @@
         :root {
             --global-theme-color: #00369f; 
         }
+        body {
+            line-height: 1.8;
+        }
         .custom-color {
             color: var(--global-theme-color);
             font-size: 25px;
