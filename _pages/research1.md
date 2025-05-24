@@ -16,7 +16,7 @@
     </style>
 </head>
 <body>
-    span class="custom-color">Neural Interfaces <br></span>
+    <span class="custom-color">Neural Interfaces <br></span>
 </body>
 </html>
 
