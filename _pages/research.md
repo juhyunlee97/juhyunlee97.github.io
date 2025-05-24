@@ -23,7 +23,7 @@ profiles:
 
 <style>
     .profile-image {
-        height: 250px; 
+        height: 300px; 
         object-fit: cover; 
     }
 </style>
