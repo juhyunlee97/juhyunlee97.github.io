@@ -39,7 +39,7 @@
       "position": "Graduate Student Researcher",     
       "location": "Daejeon, KR", 
       "startDate": "2019-03",
-      "endDate": "PRESENT",
+      "endDate": "2025-08",
       "summary": "Bio-Integrated Electronics and Systems Lab",
       "url": "https://www.jeongresearch.org/",
       "highlights": ["Wearable and Implantable Device"]
@@ -120,7 +120,7 @@
       "keywords": [
         "Photolithography",
         "Thin film deposition",
-        "Etching"
+        "Wet/dry etching"
       ]
     },
     {
@@ -128,8 +128,8 @@
       "level": "Level",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "PCB design",
-        "Microcontroller",
+        "PCB design (Altium)",
+        "MCU (nRF52, ESP32, Arduino)",
         "3D printing"
       ]
     },
