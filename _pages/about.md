@@ -19,8 +19,8 @@ social: true # includes social icons at the bottom of the page
 ---
 
 
-Hi, I'm **Juhyun Lee**, PhD candidate at [KAIST EE](https://ee.kaist.ac.kr/) advised by [Prof. Jae-Woong Jeong](https://www.jeongresearch.org/).
-I received BS in Electrical Engineering from KAIST in 2019.
+Hi, I'm **Juhyun Lee**, postdoctoral researcher at [KAIST EE](https://ee.kaist.ac.kr/) advised by [Prof. Jae-Woong Jeong](https://www.jeongresearch.org/).
+I received BS and PhD in Electrical Engineering from KAIST in 2019 and 2025, respectively.
 
 My research focuses on developing neural interface to advance neuroscience and medicine.
 I have extensive experience in system implementation based on microfabrication, circuit design, and embedded programming skills.
