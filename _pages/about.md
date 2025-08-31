@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D candidate at Korea Advanced Institute of Science and Technology (KAIST)
+subtitle: BK21 Postdoctoral Fellow at Korea Advanced Institute of Science and Technology (KAIST)
 
 profile:
   align: right
