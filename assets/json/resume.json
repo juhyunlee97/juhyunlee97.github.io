@@ -1,8 +1,8 @@
 {
   "basics": {
     "name": "Juhyun Lee",
-    "position": "Postdoctoral researcher",
-    "affiliation": "School of Electrical Engineering, KAIST",
+    "position": "Postdoctoral Researcher",
+    "affiliation": "Information and Electronics Research Institute, KAIST",
     "email": "juulee@kaist.ac.kr",
     "language": "Korean, English",
     "location": {
@@ -67,6 +67,11 @@
   ],
   "awards and honors": [
     {
+      "title": "BK21 Postdoctoral Fellowship",
+      "date": "2025-09",
+      "awarder": "KAIST"
+    }, 
+    {
       "title": "Graduate Student Outstanding Paper Award",
       "date": "2024-11",
       "awarder": "KAIST"
@@ -97,7 +102,7 @@
       "name": "Wireless technologies for wearable electronics: A review",
       "publisher": "Advanced Electronic Materials",
       "releaseDate": "2025-02",
-      "url": "https://jhlee9708.github.io/publications/",
+      "url": "https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/aelm.202400884",
       "summary": "Wearable electronics"
     },
     {
@@ -130,17 +135,19 @@
       "keywords": [
         "Photolithography",
         "Thin film deposition",
-        "Wet/dry etching"
+        "Wet/dry etching",
+        "Analysis (SEM, Thickness, Materials)"        
       ]
     },
     {
-      "name": "Hardware development",
+      "name": "Circuit system",
       "level": "Level",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
         "PCB design (Altium)",
         "MCU (nRF52, ESP32, Arduino)",
-        "3D printing"
+        "Embedded programming (C)",
+        "Simulation (LTSpice, Maxwell)"
       ]
     },
     {
@@ -148,20 +155,20 @@
       "level": "Level",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Embedded C",
-        "Matlab",
-        "Python"
+        "Data analysis (Python, Matlab, Origin)",
+        "Graphical user interface (PyQT)",
+        "Design (AutoCAD, Inventor, Keyshot)"
       ]
     }
   ],
   "interests": [
     {
-      "name": "Neural devices",
+      "name": "Neural implants",
       "icon": "fa-solid fa-tag",
       "keywords": [
         "Compact system",
         "Minimally invasive",
-        "Optogenetics"
+        "Neuromodulation and monitoring"
       ]
     },
     {
@@ -170,7 +177,7 @@
       "keywords": [
         "Wireless",
         "Soft electronics",
-        "Electrophysiology"
+        "Biosignal sensing"
       ]
     }
   ],
