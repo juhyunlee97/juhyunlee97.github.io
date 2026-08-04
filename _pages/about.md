@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: InnoCORE Postdoctoral Fellow at Korea Advanced Institute of Science and Technology (KAIST)
+subtitle: Postdoctoral Scholar at University of California, San Diego (UCSD)
 
 profile:
   align: right
@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   image_size: 130px
   more_info: >
-    <p>Daejeon, Republic of Korea</p>
+    <p>La Jolla, CA</p>
 
 
 news: true # includes a list of news items
@@ -19,7 +19,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 
-Hi, I'm **Juhyun Lee**, postdoctoral researcher at [KAIST EE](https://ee.kaist.ac.kr/) advised by [Prof. Jae-Woong Jeong](https://www.jeongresearch.org/).
+Hi, I'm **Juhyun Lee**, postdoctoral scholar at [UCSD](https://jacobsschool.ucsd.edu/) advised by [Prof. Shadi Dayeh](iebl.ucsd.edu).
 I received BS and PhD in Electrical Engineering from KAIST in 2019 and 2025, respectively.
 
 My research focuses on developing neural interface to advance neuroscience and medicine.
