@@ -2,15 +2,15 @@
   "basics": {
     "name": "Juhyun Lee",
     "position": "Postdoctoral Researcher",
-    "affiliation": "Information and Electronics Research Institute, KAIST",
-    "email": "juulee@kaist.ac.kr",
+    "affiliation": "Jacobs School of Engineering, UCSD",
+    "email": "jul283@ucsd.edu",
     "language": "Korean, English",
     "location": {
-      "address": "291 Daehak-ro",
-      "postalCode": "34141",
-      "city": "Yuseong-gu",
-      "countryCode": "KR",
-      "region": "Daejeon"
+      "address": "9500 Gilman Drive",
+      "postalCode": "92093",
+      "city": "La Jolla",
+      "countryCode": "US",
+      "region": "CA"
     }
   },
   "education": [
@@ -35,11 +35,21 @@
   ],
   "research experience": [
     {
+      "name": "UC San Diego",
+      "position": "Postdoctoral Scholar",     
+      "location": "La Jolla, CA", 
+      "startDate": "2026-08",
+      "endDate": "PRESENT",
+      "summary": "Integrated Electronics and Biointerfaces Laboratory",
+      "url": "https://iebl.ucsd.edu",
+      "highlights": ["High channel neural interfaces and systems"]
+    },
+    {
       "name": "Korea Advanced Institute of Science and Technology",
       "position": "Postdoctoral Researcher",     
       "location": "Daejeon, KR", 
       "startDate": "2025-09",
-      "endDate": "PRESENT",
+      "endDate": "2026-07",
       "summary": "Bio-Integrated Electronics and Systems Lab",
       "url": "https://www.jeongresearch.org/",
       "highlights": ["Wearable and Implantable Device"]
@@ -192,6 +202,12 @@
       "icon": "fa-solid fa-laptop",
       "reference": "School of Electrical Engineering, KAIST",
       "url": "https://www.jeongresearch.org/"
+    },
+    {
+      "name": "Prof. Shadi Dayeh",
+      "icon": "fa-solid fa-laptop",
+      "reference": "Jacobs School of Engineering, UCSD",
+      "url": "https://iebl.ucsd.edu/"
     }
   ]
 }
