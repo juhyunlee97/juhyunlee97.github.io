@@ -19,7 +19,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 
-Hi, I'm **Juhyun Lee**, postdoctoral scholar at [UCSD](https://jacobsschool.ucsd.edu/) advised by [Prof. Shadi Dayeh](iebl.ucsd.edu).
+Hi, I'm **Juhyun Lee**, postdoctoral scholar at [UCSD](https://jacobsschool.ucsd.edu/) advised by [Prof. Shadi Dayeh](https://iebl.ucsd.edu).
 I received BS and PhD in Electrical Engineering from KAIST in 2019 and 2025, respectively.
 
 My research focuses on developing neural interface to advance neuroscience and medicine.
